@@ -68,7 +68,7 @@ class Solution {
         ans = ans->next;
         delete temp3;
         return ans;
-    }
+    } 
 
     struct Node* mergeSort(struct Node*& head) {
         // code here
